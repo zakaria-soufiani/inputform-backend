@@ -29,7 +29,7 @@ functions:
     handler: list.list
     events:
       - http:
-          path: teams
+          path: form
           method: get
           cors: true
 
@@ -37,7 +37,7 @@ functions:
     handler: get.get
     events:
       - http:
-          path: teams/{id}
+          path: form/{id}
           method: get
           cors: true
 
