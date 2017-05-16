@@ -1,9 +1,7 @@
 import json
-import logging
 import os
 import time
 import uuid
-import decimalencoder
 import boto3
 dynamodb = boto3.resource('dynamodb')
 
