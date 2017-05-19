@@ -1,3 +1,5 @@
+[![serverless](http://public.serverless.com/badges/v3.svg)](http://www.serverless.com)
+
 ## Angular forms example
 This app is built using angular, AWS Lambda in Python and DynamoDB
 
